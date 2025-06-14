@@ -16,3 +16,8 @@ Each game session concludes with the results being written to a CSV file. If the
 
 #OUTPUT
 
+![Image](https://github.com/user-attachments/assets/8fae8d6d-bbf7-42ed-a905-af9919efb902)
+![Image](https://github.com/user-attachments/assets/a16cc78a-105b-4d12-b815-5c32e3926451)
+![Image](https://github.com/user-attachments/assets/e06bac54-78bd-4c19-bfb1-8822cc9198c9)
+![Image](https://github.com/user-attachments/assets/9bf64a2c-c590-4400-a833-f522d99a1000)
+![Image](https://github.com/user-attachments/assets/4e625a4b-4cb5-4d92-8d04-4f9eaea6b223)
